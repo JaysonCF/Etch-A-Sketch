@@ -1,1 +1,1 @@
-# Etch-A-Sketch
+# Etch-A-Sketch made from scratch
